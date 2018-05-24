@@ -1,0 +1,12 @@
+
+Log Entry : 04:10:24 p. m. martes, 15 de mayo de 2018
+  :Se ha cambiado la configuracion del stunnel : C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\bin\Debug\StunnelIC2\stunnel.conf
+
+Log Entry : 04:14:47 p. m. martes, 15 de mayo de 2018
+  :Se ha cambiado la configuracion del stunnel : C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\bin\Debug\StunnelIC2\stunnel.conf
+
+Log Entry : 04:15:29 p. m. martes, 15 de mayo de 2018
+  :No hay comunicacion con el pinpad
+
+Log Entry : 04:23:55 p. m. martes, 15 de mayo de 2018
+  :No hay comunicacion con el pinpad

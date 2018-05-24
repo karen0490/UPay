@@ -1,0 +1,29 @@
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\bin\Release\AppConfigEncryp.xml
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\bin\Release\StunnelIC2\libeay32.dll
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\bin\Release\StunnelIC2\msvcr90.dll
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\bin\Release\StunnelIC2\ssleay32.dll
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\bin\Release\StunnelIC2\stunnel.exe
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\bin\Release\StunnelIC2\zlib1.dll
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\bin\Release\StunnelIC2\clientIC2.pem
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\bin\Release\StunnelIC2\install_stunnel_service.bat
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\bin\Release\StunnelIC2\start_stunnel_service.bat
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\bin\Release\StunnelIC2\stop_stunnel_service.bat
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\bin\Release\StunnelIC2\stunnel.conf
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\bin\Release\StunnelIC2\stunnel.log
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\bin\Release\StunnelIC2\stunnel.rnd
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\bin\Release\StunnelIC2\uninstall_stunnel_service.bat
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\bin\Release\UPayService.exe
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\bin\Release\UPayService.pdb
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\bin\Release\UpayDll.dll
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\bin\Release\dcsapi.dll
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\bin\Release\Pinpad.dll
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\bin\Release\UpayDll.pdb
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\bin\Release\Pinpad.pdb
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\obj\Release\UPay.csprojResolveAssemblyReference.cache
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\obj\Release\UPay.ProjectInstaller.resources
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\obj\Release\UPay.UPayService.resources
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\obj\Release\UPay.csproj.GenerateResource.Cache
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\obj\Release\UPayService.exe
+C:\Users\ana.cortes\Documents\PruebaSocket\uPayService\UPay\obj\Release\UPayService.pdb
+C:\Users\ana.cortes\Documents\Visual Studio 2013\Projects\PruebaSocket\uPayService\UPay\obj\Release\UPayService.exe
+C:\Users\ana.cortes\Documents\Visual Studio 2013\Projects\PruebaSocket\uPayService\UPay\obj\Release\UPayService.pdb
